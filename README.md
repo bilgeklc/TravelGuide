@@ -1,6 +1,6 @@
 # TravelGuide
 
-------- SQLite -------
+------ SQLite ------
 
 What is SQLite ?
 
