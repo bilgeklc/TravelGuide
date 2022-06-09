@@ -56,6 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         val salardeuyuni = TravelGuide("Salar de Uyuni","Bolivia", "Salar de Uyuni, 10.582 km² alanıyla Dünya'nın en büyük tuz göllerinden biri. Bolivya 'nın güneybatısında, 3.653 m yükseklikte bulunur ve Titikaka Gölü ile beraber Altiplano Platosu'nun tabiat açısından doruk noktası olarak kabul edilir. Gündüz ışıldayan aydınlığı geceleri sert ayazı ile daha çok sert buz tutmuş bir göle benzer. Ancak yüründüğünde ayakların altında gıcırdayan buz değil kaba tuz kristalleridir.", R.drawable.salardeuyuni)
 
+
         TravelGuideList.add(pisa)
         TravelGuideList.add(colosseum)
         TravelGuideList.add(eiffel)
